@@ -1,0 +1,22 @@
+
+
+/*Your font*/
+h1{
+	
+}
+
+.fa-icon{
+	font-size: 18px;
+}
+
+.myfav-zone{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+
+.cast-zone{
+	background: url(../img/paper_texture.jpg) repeat black;
+	opacity: 1;
+}
+
